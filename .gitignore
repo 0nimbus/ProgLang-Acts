@@ -1,3 +1,5 @@
 build/
 *.tab.*
 lex.yy.*
+*.pyc
+*.swp
